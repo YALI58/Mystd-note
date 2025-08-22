@@ -1,0 +1,25 @@
+{
+  "defaultVoice": "speechSynthesis-Microsoft Huihui - Chinese (Simplified, PRC)",
+  "pitch": 1,
+  "rate": 1,
+  "volume": 1,
+  "speakLinks": false,
+  "speakFrontmatter": false,
+  "speakSyntax": false,
+  "speakTitle": true,
+  "speakCodeblocks": false,
+  "speakEmoji": false,
+  "speakComments": false,
+  "languageVoices": [
+    {
+      "id": "speechSynthesis-Microsoft Yaoyao - Chinese (Simplified, PRC)",
+      "voice": "Microsoft Yaoyao - Chinese (Simplified, PRC)"
+    }
+  ],
+  "stopPlaybackWhenNoteChanges": false,
+  "services": {
+    "openai": {
+      "key": ""
+    }
+  }
+}

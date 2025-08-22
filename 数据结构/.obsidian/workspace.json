@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "f4a5bc209db1b62d",
+    "type": "split",
+    "children": [
+      {
+        "id": "790a589bf470d139",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "068a18ab6e99b90d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高级算法/GreedyAlgorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GreedyAlgorithms"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "652dd966fe63b684",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9d9f09e3c499861",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e343d0993bf0d876",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1da2a8cf3f3b4947",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a2b6bfda31c493ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84175c112da51015",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d2aa400eccf883c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2d20b53f45fba3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "75c7d34cb6fe22c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "1d32b711866424de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d6e0048d630b9a0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "7d5ae9cb43017501",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "media-extended:Open media": false,
+      "workspaces:管理工作区布局": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Open: View Smart Connections": false
+    }
+  },
+  "active": "068a18ab6e99b90d",
+  "lastOpenFiles": [
+    "高级算法/DynamicProgramming.md",
+    "高级算法/GreedyAlgorithms.md",
+    "高级算法/KMPAlgorithm.md",
+    "Media Note - 2.1_线性表的定义和基本操作.md",
+    "查找算法/HashSearch.md",
+    "Picture/{70B9567B-FB4F-42FC-BC63-42E8615E550B}.png",
+    "Picture",
+    "查找算法/BinarySearch.md",
+    "AlgorithmSummary.md",
+    "Media Note - 2.2.1_顺序表的定义.md",
+    "Picture/2.2.1_顺序表的定义PT0.008S.webp",
+    "Media Note - 2.1_线性表的定义和基本操作 1.md",
+    "Media Note - 4.3.4_1_Call和ret指令（函数调用的机器级表示）.md",
+    "Picture/4.3.4_1_Call和ret指令（函数调用的机器级表示）PT1.026S.webp",
+    "Media Note - 2.1_线性表的定义和基本操作 2.md",
+    "Media Note - 【C++】算法竞赛常用 STL 用法.md",
+    "Picture/{C00E6334-EBCF-4751-B3B3-B8130DD02284}.png",
+    "其他/SortingAlgorithmsSummary.md",
+    "高级算法/NQueensBacktracking.md",
+    "高级算法/KnapsackProblem.md",
+    "数据结构/BinaryTreeTraversal.md",
+    "数据结构/DisjointSetUnion.md",
+    "图算法/ShortestPathAlgorithms.md",
+    "图算法/DijkstraAlgorithm.md",
+    "图算法/BreadthFirstSearch.md",
+    "图算法/DepthFirstSearch.md",
+    "排序算法/QuickSort.md",
+    "排序算法/HeapSort.md",
+    "排序算法/MergeSort.md",
+    "排序算法/InsertionSort.md",
+    "其他",
+    "高级算法",
+    "数据结构",
+    "图算法",
+    "查找算法",
+    "排序算法",
+    "未命名.canvas"
+  ]
+}

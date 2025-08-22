@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "cdee6659cdd82123",
+    "type": "split",
+    "children": [
+      {
+        "id": "93201ce41dc959b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ffc3dfb99a8e96d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机组成原理第七章.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算机组成原理第七章"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce2ce6df42d141b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1db65dc5797b54d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc4042bebe2fdf21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "aa0c8a732e0356c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "399b40990a526b33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 395.5
+  },
+  "right": {
+    "id": "7f687954f9661792",
+    "type": "split",
+    "children": [
+      {
+        "id": "b88aa7a8b20db391",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ec0f371096380e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "计算机组成原理第五章.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "计算机组成原理第五章 的反向链接列表"
+            }
+          },
+          {
+            "id": "9375c753719b0087",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "e648ce7fa57645d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "计算机组成原理第二章.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "计算机组成原理第二章 的出链列表"
+            }
+          },
+          {
+            "id": "2ead97c101caff7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4f330582095bd293",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计算机组成原理第二章.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "计算机组成原理第二章 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "media-extended:Open media": false,
+      "obsidian-tts:Text to Speech": false
+    }
+  },
+  "active": "dc4042bebe2fdf21",
+  "lastOpenFiles": [
+    "计组lv7.m4a",
+    "计算机组成原理第六章.md",
+    "计组录音lv6.m4a",
+    "Recording 20250821140726.m4a",
+    "Recording 20250821140627.m4a",
+    "计算机组成原理第五章 lv5.md",
+    "dabwjg.md",
+    "Claude变得更聪明了，告别“金鱼记忆”上线学习模式。PT18.699S.webp",
+    "Claude变得更聪明了，告别“金鱼记忆”上线学习模式。PT10.615S.webp",
+    "Pasted image 20250820215445.png",
+    "description.md",
+    "Media Note - 5.4.2_微程序控制器的基本原理.md",
+    "未命名.base",
+    "计算机组成原理第四章.md",
+    "计算机组成原理第二章.md",
+    "计组录音lv2.m4a",
+    "计算机组成原理第一章 lv1.md",
+    "计算机组成原理第一章录音.m4a",
+    "计组第四章录音lv4.m4a",
+    "计算机组成原理第三章.md",
+    "anki_cards.tsv",
+    "generate_anki.ps1",
+    "未命名 1.base",
+    "计算机组成原理第七章.md",
+    "Media Note - 3.2.4 双端口RAM和多模块存储器.md",
+    "Media Note - 5.7_2_硬件多线程.md",
+    "Media Note - 5.7_1_多处理器系统的基本概念.md",
+    "Media Note - 5.6_3_五段式指令流水线.md",
+    "Media Note - 5.6_2_指令流水线的影响因素和分类.md",
+    "Media Note - 5.6_1_指令流水线的基本概念和性能指标.md",
+    "Media Note - 5.4.4_微程序控制单元的设计.md",
+    "Picture/5.4.4_微程序控制单元的设计PT6M13.094S - 副本.webp",
+    "Picture/5.4.4_微程序控制单元的设计PT1M54.203S - 副本.webp",
+    "Picture/5.4.4_微程序控制单元的设计PT8M42.022S - 副本.webp",
+    "Media Note - 5.4.3_微指令的设计.md",
+    "Media Note - 5.4.1_硬布线控制器.md",
+    "Media Note - 5.3_2_数据通路-专用通路结构.md",
+    "Media Note - 5.3_1_数据通路-单总线结构.md",
+    "Picture/5.2_指令执行过程PT33M41.243S.webp",
+    "Media Note - 5.2_指令执行过程.md",
+    "Picture/5.2_指令执行过程PT28M3.927S.webp",
+    "Picture/5.2_指令执行过程PT21M42.988S.webp",
+    "Picture/5.2_指令执行过程PT21M28.841S.webp",
+    "计算机组成原理高效记忆笔记.md",
+    "Media Note - 7.3.3_DMA方式.md",
+    "Media Note - 7.3.2_3_程序中断方式.md",
+    "未命名.canvas"
+  ]
+}

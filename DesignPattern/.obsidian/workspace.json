@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "5d2bbcd901272bf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "685b84db067cdeaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f6505f1ca8ad4f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "简单工厂模式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "简单工厂模式"
+            }
+          },
+          {
+            "id": "48055428c781ee3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "策略模式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "策略模式"
+            }
+          },
+          {
+            "id": "89b97e553f2cc1c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/main/java/com/YALI/SimpleFactory/简单工厂模式实现的收费系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "简单工厂模式实现的收费系统"
+            }
+          },
+          {
+            "id": "e7cdd1a14853b89a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "单一职责原则.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "单一职责原则"
+            }
+          },
+          {
+            "id": "5a065e38cd192256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "开闭原则.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "开闭原则"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1faf126bb2656bc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "42239c3119ee5b49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fef38acfbb52e4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f42426b1d162057f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "36979d9e56c9737a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19cd788db18f87bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2db26492e3bcac1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6998ed209e542ec7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/main/java/com/YALI/SimpleFactory/简单工厂模式实现的收费系统.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "简单工厂模式实现的收费系统 的反向链接列表"
+            }
+          },
+          {
+            "id": "d4f2d320ec8359a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/main/java/com/YALI/SimpleFactory/简单工厂模式实现的收费系统.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "简单工厂模式实现的收费系统 的出链列表"
+            }
+          },
+          {
+            "id": "18483c1cc20f7f1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7352796178ed7be3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/main/java/com/YALI/SimpleFactory/简单工厂模式实现的收费系统.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "简单工厂模式实现的收费系统 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false
+    }
+  },
+  "active": "5a065e38cd192256",
+  "lastOpenFiles": [
+    "单一职责原则.md",
+    "开闭原则.md",
+    "src/main/java/com/YALI/SimpleFactory/简单工厂模式实现的收费系统.md",
+    "src/main/java/com/YALI/CashStrategy/策略模式.md",
+    "简单工厂模式.md",
+    "UML类图.md",
+    "target/classes/com/YALI/SimpleFactory/CashNormal.class",
+    "target/classes/com/YALI/SimpleFactory/CashFactory.class",
+    "target/classes/com/YALI/CashStrategy/Context.class",
+    "target/classes/com/YALI/CashStrategy/Client.class",
+    "target/classes/com/YALI/CashStrategy/CashReturn.class",
+    "target/classes/com/YALI/CashStrategy/CashRebate.class",
+    "target/classes/com/YALI/CashStrategy/CashSuper.class",
+    "target/classes/com/YALI/CashStrategy/CashNormal.class",
+    "target/classes/com/YALI/CashStrategy",
+    "src/main/java/com/YALI/CashStrategy/Client.java"
+  ]
+}

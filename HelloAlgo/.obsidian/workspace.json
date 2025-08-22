@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "d60cf591a53b1764",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fa785d93ccb0c45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b161255afb7d4f2",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.hello-algo.com/chapter_heap/",
+                "title": "第 8 章   堆 - Hello 算法",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "第 8 章   堆 - Hello 算法"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13f9b2eaf25ae049",
+    "type": "split",
+    "children": [
+      {
+        "id": "56d39010f8ad7a00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eca288c07ed8fbc8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fe9949d3e88c3d41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7c1e28c2f2b3f8e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5fcd130f7f8a3ad7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0354cc7f7d5d347a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c105b888ce2257b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HelloAlgo第五章栈和队列.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "HelloAlgo第五章栈和队列 的反向链接列表"
+            }
+          },
+          {
+            "id": "ef241260594f29c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HelloAlgo第五章栈和队列.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "HelloAlgo第五章栈和队列 的出链列表"
+            }
+          },
+          {
+            "id": "f4db944a7fc3954b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ca25dc2df5b32101",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HelloAlgo第五章栈和队列.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "HelloAlgo第五章栈和队列 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
+      "obsidian-tts:Text to Speech": false
+    }
+  },
+  "active": "5b161255afb7d4f2",
+  "lastOpenFiles": [
+    "HelloAlgo第七章树.md",
+    "HelloAlgo第六章哈希表.md",
+    "HelloAlgo第四章.md",
+    "HelloAlgo第五章栈和队列.md",
+    "HelloAlgo第一章初识算法.md",
+    "HelloAlgo第四章链表.md",
+    "HelloAlgo第四章列表.md",
+    "Recording 20250811204658.m4a",
+    "HelloAlgo 第4章数组.md",
+    "HelloAlgo第三章数据结构.md",
+    "HelloAlgo第二章录音.m4a",
+    "HelloAlgo第二章复杂度.md",
+    "Pasted image 20250807124434.png",
+    "欢迎.md"
+  ]
+}

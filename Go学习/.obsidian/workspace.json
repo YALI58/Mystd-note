@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "cdee6659cdd82123",
+    "type": "split",
+    "children": [
+      {
+        "id": "90bd98a397c50df3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa0bf2848e1b809c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce2ce6df42d141b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1db65dc5797b54d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc4042bebe2fdf21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "aa0c8a732e0356c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "399b40990a526b33",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 341.5
+  },
+  "right": {
+    "id": "7f687954f9661792",
+    "type": "split",
+    "children": [
+      {
+        "id": "b88aa7a8b20db391",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ec0f371096380e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "更多类型 结构体，切片，映射 lv3/指针.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "指针 的反向链接列表"
+            }
+          },
+          {
+            "id": "9375c753719b0087",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "e648ce7fa57645d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "计算机组成原理第二章.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "计算机组成原理第二章 的出链列表"
+            }
+          },
+          {
+            "id": "2ead97c101caff7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4f330582095bd293",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计算机组成原理第二章.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "计算机组成原理第二章 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "media-extended:Open media": false,
+      "bases:创建新数据库": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false
+    }
+  },
+  "active": "dc4042bebe2fdf21",
+  "lastOpenFiles": [
+    "并发模型lv6/Recording 20250822111012.m4a",
+    "并发模型lv6/Recording 20250822110157.m4a",
+    "并发模型lv6/Recording 20250822105930.m4a",
+    "并发模型lv6/Recording 20250822105136.m4a",
+    "并发模型lv6/range 和 close.md",
+    "并发模型lv6/信道.md",
+    "并发模型lv6/默认选择.md",
+    "并发模型lv6/带缓冲的信道.md",
+    "并发模型lv6/sync.Mutex.md",
+    "并发模型lv6/select 语句.md",
+    "并发模型lv6/Recording 20250822114053.m4a",
+    "并发模型lv6/Recording 20250822112328.m4a",
+    "Recording 20250822105136.m4a",
+    "信道.md",
+    "sync.Mutex.md",
+    "并发模型lv6",
+    "Recording 20250822114053.m4a",
+    "默认选择.md",
+    "select 语句.md",
+    "Recording 20250822112328.m4a",
+    "range 和 close.md",
+    "Recording 20250822111012.m4a",
+    "带缓冲的信道.md",
+    "并发模型lv6/Go 协程.md",
+    "泛型lv5/泛型类型.md",
+    "泛型lv5/类型参数.md",
+    "方法和接口lv4/Stringer.md",
+    "练习：Reader.md",
+    "图像.md",
+    "Readers.md",
+    "错误.md",
+    "练习：Stringer.md",
+    "Stringer.md",
+    "类型选择.md",
+    "更多类型 结构体，切片，映射 lv3/修改映射.md",
+    "更多类型 结构体，切片，映射 lv3/映射字面量.md",
+    "Picture/5.4.4_微程序控制单元的设计PT6M13.094S - 副本.webp",
+    "Picture/5.4.4_微程序控制单元的设计PT1M54.203S - 副本.webp",
+    "Picture/5.4.4_微程序控制单元的设计PT8M42.022S - 副本.webp",
+    "Picture/5.2_指令执行过程PT33M41.243S.webp",
+    "Picture/5.2_指令执行过程PT28M3.927S.webp",
+    "Picture/5.2_指令执行过程PT21M42.988S.webp",
+    "Picture/5.2_指令执行过程PT21M28.841S.webp",
+    "Picture/5.2_指令执行过程PT18M22.323S.webp",
+    "Picture/5.2_指令执行过程PT15M14.867S.webp",
+    "Picture/5.2_指令执行过程PT11M37.597S.webp",
+    "未命名.canvas"
+  ]
+}
